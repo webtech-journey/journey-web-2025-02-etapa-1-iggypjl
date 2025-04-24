@@ -1,1 +1,5 @@
-Insira seu resumo aqui!
+Na ultima aula, foi explicado os conteudos que vão ser abordados durante o curso e a principal iniciativa dele que é nos introduzir a programação.
+  tambem foi falado de como criaram a iniciativa da introdução a programação web, quando aonde a internet foi criada e por qual motivo ela foi criada.
+  junto com a cronologia da internet e de alguns aplicativos e programas e o primeiro protocolo de rede sem fio, o surgimento do primeiro virus e tambem o cabo de fibra optica. 
+  E em 1995 a internet chega no Brasil se tornando acessivel para a população. As caracteristicas da internet, protocolos, serviços e tipos de acessos, enderços de ip e dominios 
+  governamentais, educacionais e comercial, tipos de hospedagens e principais protocolos,
